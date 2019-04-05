@@ -1,0 +1,27 @@
+{
+  "name": "usermanagementsystem",
+  "version": "1.0.0",
+  "description": "UserManagementSystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godfreaherald/UserManagementSystem.git"
+  },
+  "author": "godfrey herald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godfreaherald/UserManagementSystem/issues"
+  },
+  "homepage": "https://github.com/godfreaherald/UserManagementSystem#readme",
+  "dependencies": {
+    "i": "^0.3.6"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "supertest": "^4.0.2"
+  }
+}
